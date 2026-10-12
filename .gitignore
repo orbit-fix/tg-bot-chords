@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+.idea/
+*.whl
+debug_*.py
+parser_amdm.py
+test_*.py
